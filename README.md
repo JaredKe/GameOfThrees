@@ -1,2 +1,2 @@
 # GameOfThrees
-This was my first attempt at writing C without any instruction. The program is from this challenege: https://www.reddit.com/r/dailyprogrammer/comments/3r7wxz/20151102_challenge_239_easy_a_game_of_threes/
+This was my first attempt at writing C without any instruction. The program is from this challenge: https://www.reddit.com/r/dailyprogrammer/comments/3r7wxz/20151102_challenge_239_easy_a_game_of_threes/
